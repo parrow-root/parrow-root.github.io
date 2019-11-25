@@ -18,6 +18,7 @@ minesweeper (test)
 <div class="minesweeper-game" data-preset="expert"></div>
 <script src="https://minesweeper.github.io/a70de4b14c0109772a9dc7a4d43a2657210cc7d1.js"></script>
 
+
 ### support or contact
 
 Having trouble with this page? Too bad nigga. Check out our [homepage](https://toilet.cat) or [contact my retarded ass](https://github.com/parrow-root/) and I will help you sort it out.
