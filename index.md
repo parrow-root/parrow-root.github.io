@@ -6,13 +6,13 @@ If you ever add the repo to your devices, you will be greeted with [me](https://
 
 ### parrow
 
-Parrow 
+Definition 
 -    Verb
 -    /pae'rowe/
 -- A slow or limited individual when it comes to being developed intellectually and emotionally. (Characterized by mental retardation)
 
 For more details see [Merriam-Webster](https://www.merriam-webster.com/dictionary/retarded).
 
-### Support or Contact
+### support or contact
 
 Having trouble with this page? Too bad nigga. Check out our [homepage](https://toilet.cat) or [contact my retarded ass](https://github.com/parrow-root/) and I will help you sort it out.
