@@ -4,34 +4,15 @@ You can use the [repo](https://toilet.cat) to download all the cool shit you eve
 
 If you ever add the repo to your devices, you will be greeted with [me](https://shorturl.at/grswB) shoving my foot up your ass then sending you a link to [screensafe](https://twitter.com/kushdabush) the most superior tweak to ever exist on any iOS device.
 
-### Markdown
+### parrow
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Parrow 
+-    Verb
+-    /pae'rowe/
+-- A slow or limited individual when it comes to being developed intellectually and emotionally. (Characterized by mental retardation)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/parrow-root/parrow-root.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For more details see [Merriam-Webster](https://www.merriam-webster.com/dictionary/retarded).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with this page? Too bad nigga. Check out our [homepage](https://toilet.cat) or [contact my retarded ass](https://github.com/parrow-root/) and I will help you sort it out.
